@@ -1,6 +1,6 @@
 import { createStyles, makeStyles } from "@material-ui/core/styles";
 import { AppBar, Grid, Link } from "@material-ui/core";
-import Logo from "../../img/Jira.png";
+import Logo from "../../img/logo.png";
 
 const styles = () =>
   createStyles({
